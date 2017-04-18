@@ -1,10 +1,10 @@
-##Install
+## Install
 `easy_install pico`
 or
 `pip install pico`
 
 
-##Write a Python module:
+## Write a Python module:
 ```python
 # example.py
 import pico
@@ -19,7 +19,7 @@ def hello(name="World"):
 
 Or run behind Apache with mod_wsgi
 
-##Call your Python functions from Javascript:
+## Call your Python functions from Javascript:
 
 ```html
 <!DOCTYPE HTML>
